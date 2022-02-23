@@ -1,12 +1,12 @@
 ---
-title: Xgo
+title: Luwu Dynamics
 toc: true
 date: 2022-02-22 17:07:57
 tags:
 categories: 
 ---
 
-欢迎来到Xgo Wiki页面！
+欢迎来到Luwu Dynamics Wiki页面！
 
 # Markdown
 本Wiki站的文章可通过点击右上角的 **Edit** 按钮跳转到Github页面，对文章源文件进行编辑。源文件编辑使用的格式为Markdown。
