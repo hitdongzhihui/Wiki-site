@@ -8,4 +8,9 @@ categories:
 
 示例文章
 
+插入
+
+![microbit](./11.png)
+
+
 团队协作测试 by 723527663@qq.com
