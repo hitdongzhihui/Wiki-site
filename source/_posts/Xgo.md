@@ -13,12 +13,15 @@ categories:
 编辑完成后请联系Github管理员，由Github管理员push到Git page上。
 
 [中文Markdown官方教程](https://markdown.com.cn/ "中文Markdown官方教程")
+建议在本地的Markdown编辑器上编辑好后复制/上传，写起来会方便些。
 
 
 # 目录
 本Wiki站的所有文章目录结构按照Github仓库中文章源文件目录结构编辑（如下图），在创建新文章时可直接跳转到Github创建源文件。
 ![Wiki目录](demo_category.jpg)
 ![源文件目录](demo_md_category.jpg)
+
+**创建文件或文件夹时，请注意命名：Windows文件名不能包含下列任何字符 \/：*？“**
 
 # 图片
 文章插入图片时，格式为
