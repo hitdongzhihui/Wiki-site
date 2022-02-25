@@ -11,19 +11,19 @@ categories:
 # 产品系列
 XGO系列产品功能对照表。
 |             | XGO-Mini K210 | XGO-Lite K210  | XGO-Lite Microbit |
-|   :----:    |    :----:     |    ---:     |    ---:     |
+|   :----:    |    :----:     |      ---:      |        ---:        |
 | 上位机       | K210包含摄像头，屏幕，麦克风     | K210包含摄像头，屏幕，麦克风     |    Microbit  |
 | 编程环境       | XGOEdu      |  XGOEdu     |    Makecode   |
 | 结构件      | 1.5mm铝合金     | 1mm铝合金      |    1mm铝合金      |
-| 机器狗关节      | Title         | Here's this    |    Here's this    |
-| 腿和足端     | Title         | Here's this    |    Here's this    |
-| 下位机     | Title         | Here's this    |    Here's this    |
-| 电池      | Title         | Here's this    |    Here's this    |
-| 充电器      | Title         | Here's this    |    Here's this    |
-| 续航时间     | Title         | Here's this    |    Here's this    |
-| 图像    | Title         | Here's this    |    Here's this    |
-| 语音      | Title         | Here's this    |    Here's this    |
-|    价格        | Title         | Here's this    |    Here's this    |
+| 机器狗关节      | 6V 4.5KG.CM金属壳钢齿360度磁编码双轴TTL串口舵机         | 6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机     |    6V 2.3KG.塑料壳金属齿300度双轴TTL串口舵机     |
+| 腿和足端     | 硅胶+尼龙        | ABS    |    ABS   |
+| 下位机     | STM32F405RGT6         | STM32F405RGT6     |    STM32F405RGT6    |
+| 电池      | 18650 2S 2500毫安        | 18650 2S 2500毫安    |    18650 2S 2500毫安    |
+| 充电器      | 8.4V1A       | 8.4V1A      |    8.4V1A      |
+| 续航时间     | 综合工况1.5小时        | 综合工况3小时     |    综合工况3小时       |
+| 图像    | 有      | 有   |   无   |
+| 语音      | 有         | 有   |    无   |
+|    价格        | ￥7999        | ￥3999   |    ￥2999   |
 
 
 
