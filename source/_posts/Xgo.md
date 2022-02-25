@@ -9,7 +9,21 @@ categories:
 陆吾智能成立于2020年，专注于面向青少年人工智能教育的仿生四足机器狗XGO的研发，XGO拥有12自由度，可以模拟波士顿动力的spot mini的动作，作为教学教具可以让孩子学习机械，电子和编程，结合机器人视觉和自然语音处理功能和配套的人工智能教材，让青少年学习AI，为适应未来人工智能生活打下基础。目前公司有核心人员5名，具有哈工大和清华大学硕士以上学历。公司拥有五项核心专利，产品在教育机器人领域取得了各级政府和国家级奖项6项：ICRA DJI 人工智能挑战赛国际冠军、首届高校教育精品成果奖一等奖、全国大学生机械创新设计大赛一等奖、全国大学生机器人大赛Robomasters全国一等奖。哈尔滨大学生创业赛一等奖，2019年的互联网+大学生创新创业大赛省金奖。
 
 # 产品系列
-
+XGO系列产品功能对照表。
+|             | XGO-Mini K210 | XGO-Lite K210  | XGO-Lite Microbit |
+|   :----:    |    :----:     |    ---:     |    ---:     |
+| 上位机       | K210包含摄像头，屏幕，麦克风     | K210包含摄像头，屏幕，麦克风     |    Microbit  |
+| 编程环境       | XGOEdu      |  XGOEdu     |    Makecode   |
+| 结构件      | 1.5mm铝合金     | 1mm铝合金      |    1mm铝合金      |
+| 机器狗关节      | Title         | Here's this    |    Here's this    |
+| 腿和足端     | Title         | Here's this    |    Here's this    |
+| 下位机     | Title         | Here's this    |    Here's this    |
+| 电池      | Title         | Here's this    |    Here's this    |
+| 充电器      | Title         | Here's this    |    Here's this    |
+| 续航时间     | Title         | Here's this    |    Here's this    |
+| 图像    | Title         | Here's this    |    Here's this    |
+| 语音      | Title         | Here's this    |    Here's this    |
+|    价格        | Title         | Here's this    |    Here's this    |
 
 
 
