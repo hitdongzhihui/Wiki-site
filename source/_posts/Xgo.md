@@ -13,7 +13,7 @@ XGO系列产品功能对照表。
 |             | XGO-Mini K210 | XGO-Lite K210  | XGO-Lite Microbit |
 |   :----:    |    :----:     |      :---:      |        :---:        |
 | 上位机       | K210包含摄像头，屏幕，麦克风     | K210包含摄像头，屏幕，麦克风     |    Microbit  |
-| 编程环境       | XGOEdu      |  XGOEdu     |    Makecode   |
+| 编程环境       | XGOEdu桌面端      |  XGOEdu桌面端        |    Makecode   |
 | 结构件      | 1.5mm铝合金     | 1mm铝合金      |    1mm铝合金      |
 | 整机尺寸      | 默认站姿25*15*16cm  | 默认站姿23*14*16cm     |    默认站姿23*14*16cm       |
 | 整机重量      | 700g    |500g     |    500g   |
