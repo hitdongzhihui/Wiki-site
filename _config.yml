@@ -8,12 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: 
-language: zh-CN
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xgorobot.github.io/XgoWiki
+url: https://xgorobot.github.io/XgoWiki-en
 root: 
 permalink: wiki/:title/
 permalink_defaults:
@@ -107,6 +107,6 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
     type: git
-    repo: https://github.com/Xgorobot/XgoWiki.git
+    repo: https://github.com/Xgorobot/XgoWiki-en.git
     #repo: https://gitee.com/Xgorobot/XgoWiki.git
     branch: master
