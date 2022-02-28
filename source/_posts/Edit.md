@@ -43,10 +43,20 @@ categories:
 
 `![文字描述](图片路径)`
 
-示例
+或者需要缩放图片时
+
+`<img src="图片路径" alt="文字描述" style="zoom:100%;" />`
+
+**示例**
 
 `![Wiki目录](./demo_category.jpg)`
 
+缩放80%
+
+`<img src="./demo_category.jpg" alt="Wiki目录" style="zoom:80%;" />`
+
+**图片位置**
+
 一篇文章的图片建议统一放在文章源文件同级文件夹中，文件夹命名需要与文章名一致
-示例
+
 ![插入图片](./picture_demo.jpg)
